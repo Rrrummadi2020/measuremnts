@@ -150,7 +150,6 @@ function App() {
 
   return (
     <div className="App">
-      Hello Ganesh
       <table border={1}>
         <thead>
           <tr>
