@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### step2
+### step1
 Install the yarn by using the npm globally
 
 ```bash
@@ -14,7 +14,7 @@ npm install yarn -g
 ```
 
 
-### step3
+### step2
 create the React app in which read and write access are available in the local machine by using the following command
 
 ```bash
@@ -22,7 +22,7 @@ yarn create react-app project-name
 ```
 
 
-### step4
+### step3
 start the React application by using the following command
 
 ```bash
